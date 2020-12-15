@@ -26,10 +26,6 @@ I'm a software platform engineer, with a lot of interest, master's degrees, and 
 - 💬 Ask me about my projects and collaboration, specially for the nodejs blueprint, it will be a pleasure to have you as contributor.
 For the last feel you free to [open an issue](https://github.com/jhipster/generator-jhipster-nodejs/issues).
 
-- 📫 Reach me on [email](mailto:angelo.mang@libero.it).
-
-![Twitter Follow](https://img.shields.io/twitter/follow/amanganiello90?label=twitter)
-![Linkedin Badge](https://img.shields.io/badge/-Linked%20In-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelomanganiello)
 
 ## ⚡ Technologies
 
@@ -56,3 +52,10 @@ For the last feel you free to [open an issue](https://github.com/jhipster/genera
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+## 📫 Contacts
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/minutemailer.svg' alt='website' height='40'>](mailto:angelo.mang@libero.it) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amanganiello90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angelomanganiello)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://it-it.facebook.com/angelo.manganiello.16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amanganiello90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amanganiello90.github.io/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanganiello90&show_icons=true)  
